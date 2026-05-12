@@ -1,0 +1,15 @@
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+streamlit==1.37.1
+xgboost==2.1.1
+
+PROJECT STRUCTURE SHOULD LOOK LIKE
+ipl sports analytics/
+│
+├── app.py
+├── requirements.txt
+│
+├── data/
+├── models/
+├── notebooks/
